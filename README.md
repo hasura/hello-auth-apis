@@ -408,10 +408,6 @@ By default, the File API provides three hooks to choose from
 You can also set up your own authorization webhook!
 (Check out our [ documentation ](https://docs.hasura.io/) for more!)
 
-### Explore the Auth and Notify APIs
-
-Check out the [ Learning center ](http://localhost:8080/learning-center) tab on the API Console for short tutorials on the Auth and Notify APIs!
-
 ### Node.js Express Hello World App
 
 This quickstart project has a simple Node.js Express Hello World app.
