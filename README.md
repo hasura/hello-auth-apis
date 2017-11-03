@@ -108,7 +108,8 @@ Simple CRUD Operations are supported via an intuitive JSON query language.
         "columns": ["*"],
         "order_by": [
             {
-                "column": "rating"
+                "column": "rating",
+                "order": "desc"
             }
         ]
     }
